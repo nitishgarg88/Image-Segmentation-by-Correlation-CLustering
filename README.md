@@ -1,8 +1,6 @@
 Image-Segmentation-by-Correlation-CLustering
 ============================================
-===============================================
-Image Segmentation using Correlation Clustering
-===============================================
+
 1. Libraries used:
 VLFeat's SLIC superpixels, SVM training
 2. Structure of the code
